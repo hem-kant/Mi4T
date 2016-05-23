@@ -20,6 +20,7 @@ using System.Collections;
 using System.Collections.Generic;
 using MI4TSearching.SearchService.BAL.Model;
 using MI4T.IndexService.BAL.ContentMapper;
+using System.Threading.Tasks;
 
 namespace MongoDBSearchService
 {
@@ -95,9 +96,12 @@ namespace MongoDBSearchService
                     {
                         document.ToJson();
                     }
+                 
                     MI4TLogger.WriteLog(ELogLevel.INFO, "Calling collection.FindOne(query)");
-                    var entity = collection.FindOne(query);                    
-                    resultJSON = entity.ToJson();
+                  //  var entity = collection.Find(query).ToListAsync();
+                    var result1 = collection.FindAs<MongoDBModelSearch>(query);
+                    resultJSON = result1.ToJson();
+                    
                     MI4TLogger.WriteLog(ELogLevel.INFO, "OUTPUT: " + resultJSON);
                 }
             }
@@ -107,5 +111,7 @@ namespace MongoDBSearchService
             }
             return new MemoryStream(Encoding.UTF8.GetBytes(resultJSON));
         }
+
+       
     }
 }

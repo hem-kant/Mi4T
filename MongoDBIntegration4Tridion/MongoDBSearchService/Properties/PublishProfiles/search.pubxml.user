@@ -13,52 +13,52 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/11/2015 19:51:20</publishTime>
     </File>
     <File Include="bin/MI4T.Common.Configuration.dll">
-      <publishTime>05/23/2016 13:37:57</publishTime>
+      <publishTime>05/23/2016 14:47:46</publishTime>
     </File>
     <File Include="bin/MI4T.Common.Configuration.pdb">
-      <publishTime>05/23/2016 13:37:57</publishTime>
+      <publishTime>05/23/2016 14:47:46</publishTime>
     </File>
     <File Include="bin/MI4T.Common.ExceptionManagement.dll">
-      <publishTime>05/23/2016 13:37:57</publishTime>
+      <publishTime>05/23/2016 15:20:10</publishTime>
     </File>
     <File Include="bin/MI4T.Common.ExceptionManagement.pdb">
-      <publishTime>05/23/2016 13:37:57</publishTime>
+      <publishTime>05/23/2016 15:20:10</publishTime>
     </File>
     <File Include="bin/MI4T.Common.Logging.dll">
-      <publishTime>05/23/2016 13:37:57</publishTime>
+      <publishTime>05/23/2016 14:47:45</publishTime>
     </File>
     <File Include="bin/MI4T.Common.Logging.pdb">
-      <publishTime>05/23/2016 13:37:57</publishTime>
+      <publishTime>05/23/2016 14:47:45</publishTime>
     </File>
     <File Include="bin/MI4T.Common.Services.dll">
-      <publishTime>05/23/2016 13:37:57</publishTime>
+      <publishTime>05/23/2016 15:20:09</publishTime>
     </File>
     <File Include="bin/MI4T.Common.Services.pdb">
-      <publishTime>05/23/2016 13:37:57</publishTime>
+      <publishTime>05/23/2016 15:20:09</publishTime>
     </File>
     <File Include="bin/MI4T.IndexService.BAL.dll">
-      <publishTime>05/23/2016 13:37:58</publishTime>
+      <publishTime>05/23/2016 15:20:13</publishTime>
     </File>
     <File Include="bin/MI4T.IndexService.BAL.pdb">
-      <publishTime>05/23/2016 13:37:58</publishTime>
+      <publishTime>05/23/2016 15:20:13</publishTime>
     </File>
     <File Include="bin/MI4T.IndexService.DataContracts.dll">
-      <publishTime>05/23/2016 13:37:58</publishTime>
+      <publishTime>05/23/2016 15:20:10</publishTime>
     </File>
     <File Include="bin/MI4T.IndexService.DataContracts.pdb">
-      <publishTime>05/23/2016 13:37:58</publishTime>
+      <publishTime>05/23/2016 15:20:10</publishTime>
     </File>
     <File Include="bin/MI4T.IndexService.DataHelper.dll">
-      <publishTime>05/23/2016 13:37:58</publishTime>
+      <publishTime>05/23/2016 15:20:11</publishTime>
     </File>
     <File Include="bin/MI4T.IndexService.DataHelper.pdb">
-      <publishTime>05/23/2016 13:37:58</publishTime>
+      <publishTime>05/23/2016 15:20:11</publishTime>
     </File>
     <File Include="bin/MI4TSearching.SearchService.BAL.dll">
-      <publishTime>05/23/2016 14:25:26</publishTime>
+      <publishTime>05/23/2016 15:20:11</publishTime>
     </File>
     <File Include="bin/MI4TSearching.SearchService.BAL.pdb">
-      <publishTime>05/23/2016 14:25:26</publishTime>
+      <publishTime>05/23/2016 15:20:11</publishTime>
     </File>
     <File Include="bin/MongoDB.Bson.dll">
       <publishTime>11/27/2012 11:15:50</publishTime>
@@ -79,10 +79,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/27/2012 11:15:50</publishTime>
     </File>
     <File Include="bin/MongoDBSearchService.dll">
-      <publishTime>05/23/2016 14:34:52</publishTime>
+      <publishTime>05/23/2016 15:54:56</publishTime>
     </File>
     <File Include="bin/MongoDBSearchService.pdb">
-      <publishTime>05/23/2016 14:34:52</publishTime>
+      <publishTime>05/23/2016 15:54:56</publishTime>
     </File>
     <File Include="bin/netrtsn.dll">
       <publishTime>08/11/2015 19:51:20</publishTime>
@@ -103,7 +103,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/21/2016 21:09:30</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>05/23/2016 14:34:53</publishTime>
+      <publishTime>05/23/2016 15:54:58</publishTime>
     </File>
   </ItemGroup>
 </Project>
