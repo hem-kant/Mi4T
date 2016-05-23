@@ -1,0 +1,14 @@
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Services\bin\Release\MI4T.Common.Services.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Services\bin\Release\MI4T.Common.Services.pdb
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Services\bin\Release\Newtonsoft.Json.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Services\bin\Release\Newtonsoft.Json.xml
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Services\obj\Release\MI4T.Common.Services.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Services\obj\Release\MI4T.Common.Services.pdb
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Services\obj\Release\MI4T.Common.Services.csprojResolveAssemblyReference.cache
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Services\bin\Release\MI4T.Common.Services.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Services\bin\Release\MI4T.Common.Services.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Services\bin\Release\Newtonsoft.Json.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Services\bin\Release\Newtonsoft.Json.xml
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Services\obj\Release\MI4T.Common.Services.csprojResolveAssemblyReference.cache
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Services\obj\Release\MI4T.Common.Services.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Services\obj\Release\MI4T.Common.Services.pdb

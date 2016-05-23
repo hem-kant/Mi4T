@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\service</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/log4net.dll">
+      <publishTime>08/11/2015 19:51:20</publishTime>
+    </File>
+    <File Include="bin/MI4T.Common.Configuration.dll">
+      <publishTime>05/23/2016 13:37:57</publishTime>
+    </File>
+    <File Include="bin/MI4T.Common.Configuration.pdb">
+      <publishTime>05/23/2016 13:37:57</publishTime>
+    </File>
+    <File Include="bin/MI4T.Common.ExceptionManagement.dll">
+      <publishTime>05/23/2016 13:37:57</publishTime>
+    </File>
+    <File Include="bin/MI4T.Common.ExceptionManagement.pdb">
+      <publishTime>05/23/2016 13:37:57</publishTime>
+    </File>
+    <File Include="bin/MI4T.Common.Logging.dll">
+      <publishTime>05/23/2016 13:37:57</publishTime>
+    </File>
+    <File Include="bin/MI4T.Common.Logging.pdb">
+      <publishTime>05/23/2016 13:37:57</publishTime>
+    </File>
+    <File Include="bin/MI4T.Common.Services.dll">
+      <publishTime>05/23/2016 13:37:57</publishTime>
+    </File>
+    <File Include="bin/MI4T.Common.Services.pdb">
+      <publishTime>05/23/2016 13:37:57</publishTime>
+    </File>
+    <File Include="bin/MI4T.IndexService.BAL.dll">
+      <publishTime>05/23/2016 13:37:58</publishTime>
+    </File>
+    <File Include="bin/MI4T.IndexService.BAL.pdb">
+      <publishTime>05/23/2016 13:37:58</publishTime>
+    </File>
+    <File Include="bin/MI4T.IndexService.DataContracts.dll">
+      <publishTime>05/23/2016 13:37:58</publishTime>
+    </File>
+    <File Include="bin/MI4T.IndexService.DataContracts.pdb">
+      <publishTime>05/23/2016 13:37:58</publishTime>
+    </File>
+    <File Include="bin/MI4T.IndexService.DataHelper.dll">
+      <publishTime>05/23/2016 13:37:58</publishTime>
+    </File>
+    <File Include="bin/MI4T.IndexService.DataHelper.pdb">
+      <publishTime>05/23/2016 13:37:58</publishTime>
+    </File>
+    <File Include="bin/MI4TSearching.SearchService.BAL.dll">
+      <publishTime>05/23/2016 14:25:26</publishTime>
+    </File>
+    <File Include="bin/MI4TSearching.SearchService.BAL.pdb">
+      <publishTime>05/23/2016 14:25:26</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Bson.dll">
+      <publishTime>11/27/2012 11:15:50</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Bson.pdb">
+      <publishTime>11/27/2012 11:15:50</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.Core.dll">
+      <publishTime>05/19/2016 13:11:50</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.dll">
+      <publishTime>11/27/2012 11:15:52</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.Legacy.dll">
+      <publishTime>05/19/2016 18:09:14</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.pdb">
+      <publishTime>11/27/2012 11:15:50</publishTime>
+    </File>
+    <File Include="bin/MongoDBSearchService.dll">
+      <publishTime>05/23/2016 14:34:52</publishTime>
+    </File>
+    <File Include="bin/MongoDBSearchService.pdb">
+      <publishTime>05/23/2016 14:34:52</publishTime>
+    </File>
+    <File Include="bin/netrtsn.dll">
+      <publishTime>08/11/2015 19:51:20</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>05/19/2016 13:29:25</publishTime>
+    </File>
+    <File Include="bin/Tridion.ContentDelivery.Configuration.dll">
+      <publishTime>08/11/2015 19:51:20</publishTime>
+    </File>
+    <File Include="bin/Tridion.ContentDelivery.dll">
+      <publishTime>08/11/2015 19:51:20</publishTime>
+    </File>
+    <File Include="bin/Tridion.ContentDelivery.Interop.dll">
+      <publishTime>08/11/2015 19:51:20</publishTime>
+    </File>
+    <File Include="SearchSvc.svc">
+      <publishTime>05/21/2016 21:09:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/23/2016 14:34:53</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

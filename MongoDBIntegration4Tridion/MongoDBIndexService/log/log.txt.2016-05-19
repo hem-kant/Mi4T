@@ -1,0 +1,11 @@
+2016-05-19 20:13:28,699 [15] INFO  Destination Loc Path with file name 
+2016-05-19 20:32:31,398 [36] INFO  Entering into method IndexService.AddDocument
+2016-05-19 20:33:15,981 [36] INFO  AddDocumnet is not called ispublish is false
+2016-05-19 20:34:30,402 [18] INFO  Entering into method IndexService.AddDocument
+2016-05-19 20:34:46,312 [18] INFO  AddDocumnet is not called ispublish is false
+2016-05-19 20:34:49,593 [37] INFO  Entering into method IndexService.AddDocument
+2016-05-19 20:35:04,701 [37] INFO  AddDocumnet is not called ispublish is false
+2016-05-19 20:35:09,499 [30] INFO  Entering into method IndexService.AddDocument
+2016-05-19 20:35:27,279 [30] INFO  AddDocumnet is not called ispublish is false
+2016-05-19 20:36:32,789 [30] INFO  Entering into method IndexService.AddDocument
+2016-05-19 20:36:36,683 [30] INFO  AddDocumnet is  called publish is true

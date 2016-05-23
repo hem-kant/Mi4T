@@ -1,0 +1,8 @@
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Logging\bin\Release\MI4T.Common.Logging.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Logging\bin\Release\MI4T.Common.Logging.pdb
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Logging\bin\Release\log4net.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Logging\bin\Release\Newtonsoft.Json.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Logging\bin\Release\Newtonsoft.Json.xml
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Logging\obj\Release\MI4T.Common.Logging.csprojResolveAssemblyReference.cache
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Logging\obj\Release\MI4T.Common.Logging.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Logging\obj\Release\MI4T.Common.Logging.pdb

@@ -1,0 +1,51 @@
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\obj\Debug\MI4T.IndexService.DataHelper.csprojResolveAssemblyReference.cache
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.IndexService.DataHelper.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.IndexService.DataHelper.pdb
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Configuration.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.ExceptionManagement.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Logging.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Services.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.IndexService.DataContracts.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Configuration.pdb
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.ExceptionManagement.pdb
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Logging.pdb
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Services.pdb
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.IndexService.DataContracts.pdb
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\obj\Debug\MI4T.IndexService.DataHelper.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\obj\Debug\MI4T.IndexService.DataHelper.pdb
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\Newtonsoft.Json.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\Newtonsoft.Json.xml
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.IndexService.DataHelper.dll
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.IndexService.DataHelper.pdb
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Configuration.dll
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.ExceptionManagement.dll
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Logging.dll
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Services.dll
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.IndexService.DataContracts.dll
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\Newtonsoft.Json.dll
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Configuration.pdb
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.ExceptionManagement.pdb
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Logging.pdb
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Services.pdb
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.IndexService.DataContracts.pdb
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\Newtonsoft.Json.xml
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\obj\Debug\MI4T.IndexService.DataHelper.csprojResolveAssemblyReference.cache
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\obj\Debug\MI4T.IndexService.DataHelper.dll
+H:\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\obj\Debug\MI4T.IndexService.DataHelper.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.IndexService.DataHelper.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.IndexService.DataHelper.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Configuration.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.ExceptionManagement.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Logging.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Services.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.IndexService.DataContracts.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\Newtonsoft.Json.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Configuration.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.ExceptionManagement.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Logging.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.Common.Services.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\MI4T.IndexService.DataContracts.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\bin\Debug\Newtonsoft.Json.xml
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\obj\Debug\MI4T.IndexService.DataHelper.csprojResolveAssemblyReference.cache
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\obj\Debug\MI4T.IndexService.DataHelper.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.IndexService.DataHelper\obj\Debug\MI4T.IndexService.DataHelper.pdb

@@ -1,0 +1,12 @@
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Configuration\bin\Debug\MI4T.Common.Configuration.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Configuration\bin\Debug\MI4T.Common.Configuration.pdb
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Configuration\obj\Debug\MI4T.Common.Configuration.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Configuration\obj\Debug\MI4T.Common.Configuration.pdb
+H:\MongoDBIntegration4Tridion\MI4T.Common.Configuration\bin\Debug\MI4T.Common.Configuration.dll
+H:\MongoDBIntegration4Tridion\MI4T.Common.Configuration\bin\Debug\MI4T.Common.Configuration.pdb
+H:\MongoDBIntegration4Tridion\MI4T.Common.Configuration\obj\Debug\MI4T.Common.Configuration.dll
+H:\MongoDBIntegration4Tridion\MI4T.Common.Configuration\obj\Debug\MI4T.Common.Configuration.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Configuration\bin\Debug\MI4T.Common.Configuration.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Configuration\bin\Debug\MI4T.Common.Configuration.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Configuration\obj\Debug\MI4T.Common.Configuration.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Configuration\obj\Debug\MI4T.Common.Configuration.pdb

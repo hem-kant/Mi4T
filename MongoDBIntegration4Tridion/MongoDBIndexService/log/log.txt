@@ -1,0 +1,2 @@
+2016-05-20 12:31:03,565 [13] INFO  Entering into method IndexService.AddDocument
+2016-05-20 12:31:34,142 [13] INFO  AddDocumnet is  called publish is true

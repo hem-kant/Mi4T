@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F6817E02-B4AE-474D-8E5A-F52F83E62A33}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MI4T.IndexService.BAL</RootNamespace>
+    <AssemblyName>MI4T.IndexService.BAL</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MI4T.Common.Logging\bin\Debug\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\ThirdPartyReferences\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoDB.Bson, Version=2.2.4.26, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Bson.2.2.4\lib\net45\MongoDB.Bson.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MongoDB.Driver, Version=2.2.4.26, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Driver.2.2.4\lib\net45\MongoDB.Driver.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MongoDB.Driver.Core, Version=2.2.4.26, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Driver.Core.2.2.4\lib\net45\MongoDB.Driver.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MongoDB.Driver.Legacy, Version=2.2.4.26, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\mongocsharpdriver.2.2.4\lib\net45\MongoDB.Driver.Legacy.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="netrtsn, Version=3.3.0.0, Culture=neutral, PublicKeyToken=3f62086c257dc8e1">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\netrtsn.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tridion.Common, Version=7.1.0.52, Culture=neutral, PublicKeyToken=349a39f202fa9b53, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Tridion.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Tridion.ContentDelivery, Version=6.1.0.348, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Tridion.ContentDelivery.dll</HintPath>
+    </Reference>
+    <Reference Include="Tridion.ContentDelivery.Configuration, Version=6.1.0.348, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Tridion.ContentDelivery.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Tridion.ContentDelivery.Interop, Version=6.1.0.43, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Tridion.ContentDelivery.Interop.dll</HintPath>
+    </Reference>
+    <Reference Include="Tridion.ContentManager, Version=7.1.0.1290, Culture=neutral, PublicKeyToken=360aac4d3354074b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Tridion.ContentManager.dll</HintPath>
+    </Reference>
+    <Reference Include="Tridion.ContentManager.Common, Version=7.1.0.1290, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Tridion.ContentManager.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Tridion.ContentManager.CoreService.Client, Version=7.1.0.1290, Culture=neutral, PublicKeyToken=ddfc895746e5ee6b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Tridion.ContentManager.CoreService.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Tridion.ContentManager.TemplateTypes, Version=7.1.0.1290, Culture=neutral, PublicKeyToken=360aac4d3354074b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Tridion.ContentManager.TemplateTypes.dll</HintPath>
+    </Reference>
+    <Reference Include="Tridion.ContentManager.Templating, Version=7.1.0.1290, Culture=neutral, PublicKeyToken=360aac4d3354074b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Tridion.ContentManager.Templating.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AsyncData\GetAsyncData.cs" />
+    <Compile Include="ContentMapper\MongoDBModel.cs" />
+    <Compile Include="ContentMapper\Utility.cs" />
+    <Compile Include="MI4TIndexManager.cs" />
+    <Compile Include="OperationResult.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MI4T.Common.Configuration\MI4T.Common.Configuration.csproj">
+      <Project>{9aabd484-0d87-42fb-b05f-3bfdf82c9fbe}</Project>
+      <Name>MI4T.Common.Configuration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MI4T.Common.ExceptionManagement\MI4T.Common.ExceptionManagement.csproj">
+      <Project>{8ba6f3d7-18db-402b-aa1c-105f4422ec18}</Project>
+      <Name>MI4T.Common.ExceptionManagement</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MI4T.Common.Logging\MI4T.Common.Logging.csproj">
+      <Project>{a439716d-b5f5-4f2b-985c-5951b90cec0f}</Project>
+      <Name>MI4T.Common.Logging</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MI4T.Common.Services\MI4T.Common.Services.csproj">
+      <Project>{7a7f3576-f68f-41fb-8772-854f4090ff47}</Project>
+      <Name>MI4T.Common.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MI4T.IndexService.DataContracts\MI4T.IndexService.DataContracts.csproj">
+      <Project>{d87698b4-58a9-4273-8230-2455c9d11140}</Project>
+      <Name>MI4T.IndexService.DataContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MI4T.IndexService.DataHelper\MI4T.IndexService.DataHelper.csproj">
+      <Project>{96e26780-f446-4bfd-9a34-36f5444449c4}</Project>
+      <Name>MI4T.IndexService.DataHelper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MI4TIndexing.Services.DataContracts\MI4TIndexing.Services.DataContracts.csproj">
+      <Project>{b967e3c8-ece8-4565-8a79-ed9272863963}</Project>
+      <Name>MI4TIndexing.Services.DataContracts</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

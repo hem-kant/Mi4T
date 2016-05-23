@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="MongoDBSearchService.SearchSvc" CodeBehind="SearchSvc.svc.cs" %>

@@ -1,0 +1,14 @@
+D:\Production Project\MongoDBIntegration4Tridion\MI4TIndexing.Templating\bin\Debug\MI4TIndexing.Templating.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4TIndexing.Templating\bin\Debug\MI4TIndexing.Templating.pdb
+D:\Production Project\MongoDBIntegration4Tridion\MI4TIndexing.Templating\obj\Debug\MI4TIndexing.Templating.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4TIndexing.Templating\obj\Debug\MI4TIndexing.Templating.pdb
+H:\MongoDBIntegration4Tridion\MI4TIndexing.Templating\bin\Debug\MI4TIndexing.Templating.dll
+H:\MongoDBIntegration4Tridion\MI4TIndexing.Templating\bin\Debug\MI4TIndexing.Templating.pdb
+H:\MongoDBIntegration4Tridion\MI4TIndexing.Templating\obj\Debug\MI4TIndexing.Templating.dll
+H:\MongoDBIntegration4Tridion\MI4TIndexing.Templating\obj\Debug\MI4TIndexing.Templating.pdb
+H:\MongoDBIntegration4Tridion\MI4TIndexing.Templating\obj\Debug\MI4TIndexing.Templating.csprojResolveAssemblyReference.cache
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TIndexing.Templating\bin\Debug\MI4TIndexing.Templating.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TIndexing.Templating\bin\Debug\MI4TIndexing.Templating.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TIndexing.Templating\obj\Debug\MI4TIndexing.Templating.csprojResolveAssemblyReference.cache
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TIndexing.Templating\obj\Debug\MI4TIndexing.Templating.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TIndexing.Templating\obj\Debug\MI4TIndexing.Templating.pdb

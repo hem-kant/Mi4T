@@ -1,0 +1,76 @@
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\obj\Debug\MongoDBSearchService.csprojResolveAssemblyReference.cache
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDBSearchService.dll.config
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDBSearchService.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDBSearchService.pdb
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.Configuration.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.ExceptionManagement.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.Logging.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.Services.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\log4net.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\Newtonsoft.Json.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.Configuration.pdb
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.ExceptionManagement.pdb
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.Logging.pdb
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.Services.pdb
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\Newtonsoft.Json.xml
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\obj\Debug\MongoDBSearchService.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\obj\Debug\MongoDBSearchService.pdb
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4TSearching.SearchService.BAL.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4TSearching.SearchService.BAL.pdb
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.IndexService.BAL.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Driver.Core.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.IndexService.DataContracts.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Driver.Legacy.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\Tridion.ContentDelivery.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.IndexService.DataHelper.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\Tridion.ContentDelivery.Interop.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\netrtsn.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\Tridion.ContentDelivery.Configuration.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.IndexService.BAL.pdb
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.IndexService.DataContracts.pdb
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Driver.Legacy.xml
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.IndexService.DataHelper.pdb
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Driver.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Bson.dll
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Bson.pdb
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Bson.xml
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Driver.pdb
+H:\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Driver.xml
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDBSearchService.dll.config
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDBSearchService.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDBSearchService.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.Configuration.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.Logging.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.Services.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.IndexService.BAL.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4TSearching.SearchService.BAL.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Bson.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Driver.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\log4net.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\Newtonsoft.Json.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.IndexService.DataContracts.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Driver.Legacy.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\Tridion.ContentDelivery.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Driver.Core.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.IndexService.DataHelper.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\Tridion.ContentDelivery.Interop.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\netrtsn.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\Tridion.ContentDelivery.Configuration.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.ExceptionManagement.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.Configuration.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.Logging.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.Services.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.IndexService.BAL.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4TSearching.SearchService.BAL.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Bson.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Bson.xml
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Driver.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Driver.xml
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\Newtonsoft.Json.xml
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.IndexService.DataContracts.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MongoDB.Driver.Legacy.xml
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.IndexService.DataHelper.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\bin\MI4T.Common.ExceptionManagement.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\obj\Debug\MongoDBSearchService.csprojResolveAssemblyReference.cache
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\obj\Debug\MongoDBSearchService.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MongoDBSearchService\obj\Debug\MongoDBSearchService.pdb

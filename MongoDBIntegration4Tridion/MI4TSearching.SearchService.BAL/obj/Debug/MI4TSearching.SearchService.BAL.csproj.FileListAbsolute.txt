@@ -1,0 +1,44 @@
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4TSearching.SearchService.BAL.dll
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4TSearching.SearchService.BAL.pdb
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.Configuration.dll
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.ExceptionManagement.dll
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.Logging.dll
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.Services.dll
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MongoDB.Bson.dll
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MongoDB.Driver.dll
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\log4net.dll
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\Newtonsoft.Json.dll
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.Configuration.pdb
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.ExceptionManagement.pdb
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.Logging.pdb
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.Services.pdb
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MongoDB.Bson.pdb
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MongoDB.Bson.xml
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MongoDB.Driver.pdb
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MongoDB.Driver.xml
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\Newtonsoft.Json.xml
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\obj\Debug\MI4TSearching.SearchService.BAL.csprojResolveAssemblyReference.cache
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\obj\Debug\MI4TSearching.SearchService.BAL.dll
+H:\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\obj\Debug\MI4TSearching.SearchService.BAL.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4TSearching.SearchService.BAL.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4TSearching.SearchService.BAL.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.Configuration.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.ExceptionManagement.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.Logging.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MongoDB.Bson.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MongoDB.Driver.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.Services.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\log4net.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\Newtonsoft.Json.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.Configuration.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.ExceptionManagement.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.Logging.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MongoDB.Bson.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MongoDB.Bson.xml
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MongoDB.Driver.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MongoDB.Driver.xml
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\MI4T.Common.Services.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\bin\Debug\Newtonsoft.Json.xml
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\obj\Debug\MI4TSearching.SearchService.BAL.csprojResolveAssemblyReference.cache
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\obj\Debug\MI4TSearching.SearchService.BAL.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TSearching.SearchService.BAL\obj\Debug\MI4TSearching.SearchService.BAL.pdb

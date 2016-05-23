@@ -1,0 +1,9 @@
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Configuration\bin\Release\MI4T.Common.Configuration.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Configuration\bin\Release\MI4T.Common.Configuration.pdb
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Configuration\obj\Release\MI4T.Common.Configuration.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4T.Common.Configuration\obj\Release\MI4T.Common.Configuration.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Configuration\bin\Release\MI4T.Common.Configuration.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Configuration\bin\Release\MI4T.Common.Configuration.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Configuration\obj\Release\MI4T.Common.Configuration.csprojResolveAssemblyReference.cache
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Configuration\obj\Release\MI4T.Common.Configuration.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4T.Common.Configuration\obj\Release\MI4T.Common.Configuration.pdb

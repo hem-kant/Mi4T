@@ -1,0 +1,27 @@
+D:\Production Project\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\obj\Debug\MI4TIndexing.Services.DataContracts.csprojResolveAssemblyReference.cache
+D:\Production Project\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\MI4TIndexing.Services.DataContracts.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\MI4TIndexing.Services.DataContracts.pdb
+D:\Production Project\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\MI4T.Common.Services.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\Newtonsoft.Json.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\MI4T.Common.Services.pdb
+D:\Production Project\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\Newtonsoft.Json.xml
+D:\Production Project\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\obj\Debug\MI4TIndexing.Services.DataContracts.dll
+D:\Production Project\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\obj\Debug\MI4TIndexing.Services.DataContracts.pdb
+H:\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\MI4TIndexing.Services.DataContracts.dll
+H:\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\MI4TIndexing.Services.DataContracts.pdb
+H:\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\MI4T.Common.Services.dll
+H:\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\Newtonsoft.Json.dll
+H:\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\MI4T.Common.Services.pdb
+H:\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\Newtonsoft.Json.xml
+H:\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\obj\Debug\MI4TIndexing.Services.DataContracts.csprojResolveAssemblyReference.cache
+H:\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\obj\Debug\MI4TIndexing.Services.DataContracts.dll
+H:\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\obj\Debug\MI4TIndexing.Services.DataContracts.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\MI4TIndexing.Services.DataContracts.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\MI4TIndexing.Services.DataContracts.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\MI4T.Common.Services.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\Newtonsoft.Json.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\MI4T.Common.Services.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\bin\Debug\Newtonsoft.Json.xml
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\obj\Debug\MI4TIndexing.Services.DataContracts.dll
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\obj\Debug\MI4TIndexing.Services.DataContracts.pdb
+D:\Production Project\mi4t\MongoDBIntegration4Tridion\MI4TIndexing.Services.DataContracts\obj\Debug\MI4TIndexing.Services.DataContracts.csprojResolveAssemblyReference.cache
