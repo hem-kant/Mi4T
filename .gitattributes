@@ -4,9 +4,6 @@
 # Custom for Visual Studio
 *.cs     diff=csharp
 
-$ cat .gitattributes
-*.cs linguist-language=C#
-
 # Standard to msysgit
 *.doc	 diff=astextplain
 *.DOC	 diff=astextplain
