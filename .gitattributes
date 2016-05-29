@@ -1,6 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-
+Mi4T/MongoDBIntegration4Tridion/MongoDBIndexService/scripts/* linguist-vendored
 # Custom for Visual Studio
 *.cs     diff=csharp
 
